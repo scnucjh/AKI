@@ -10,7 +10,7 @@ You can use
 ```
 make check
 ```
-to analyze Verify the AKI.
+to verify the AKI.
 
 You can use
 ```
